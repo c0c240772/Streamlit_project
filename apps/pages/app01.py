@@ -12,7 +12,7 @@ st.subheader("基本オブジェクト")
 st.write("テキストの練習")
 
 # 画像
-image = Image.open("data/画像.png")
+image = Image.open("apps/data/画像.png")
 st.image(image)
 
 # テキストボックス
